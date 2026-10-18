@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+python-dotenv
+paddleocr
+paddlepaddle
+sqlalchemy
+pydantic
+streamlit
+numpy==1.26.4
+plotly
+pandas
